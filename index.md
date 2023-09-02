@@ -21,8 +21,6 @@ Prior to this, I held the following positions: Business consultant in constructi
 The full list is available at [teaching](teaching.md).
 
 ### Publications
--
-- 
 
 ## Contact
 
