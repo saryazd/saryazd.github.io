@@ -1,6 +1,6 @@
 | [CV](cv.pdf) | [Teachings](teachings.md) | [Courses](courses.md) | [Community Services](services.md) | [Leadership](leadership.md)
 
-### Welcome to my personal website! I'm thrilled to have you here.
+## Welcome to my personal website!
   
 I am a final-year master's student in **Business Analytics at Concordia University**, and my journey in the world of data and analytics has been nothing short of exciting. Throughout my academic pursuits, I have delved deep into the realms of data science and artificial intelligence, honing my skills as a researcher and practitioner. My passion for **data-driven decision-making** led me to work as a **research assistant** in these fields during my master's program.
 
@@ -14,4 +14,5 @@ As I embark on the next phase of my career, I am eagerly seeking opportunities i
 
 ## Contact
 [Email](amirhoseyn.saryazdi@gmail.com)
+
 [![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")
