@@ -1,4 +1,4 @@
-| [About me](aboutme.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [My CV](cv.pdf) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
 
 ## M.Sc. candidate at Concordia University
 I am a final year M.Sc. in Business Analytics at Concordia University. My current research is focused on trustworthy machine learning (ML) to mitigate bias in algorithms and make Artificial Intelligence (AI) more inclusive.
