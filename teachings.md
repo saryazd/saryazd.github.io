@@ -16,9 +16,6 @@ In summary, my teaching philosophy revolves around making learning **simple and 
 - COMM 215: Business Statistics
 - COMM 223: Introduction to Marketing
 - COMM 401:Strategic Management
-### Kharazmi University, Tehran, Iran
-- Decision Making for Managers (Graduate Level)
-- Operations Management (Graduate Level)
 
 ### Role description
 In my capacity as a teaching assistant, I have undertaken a multifaceted array of responsibilities that encapsulate the essence of **academic facilitation**. One facet of this role entails the orchestration of group discussions aimed at promoting active and effective student participation. Within this dynamic environment, I endeavor to kindle the flames of curiosity, fostering an atmosphere where ideas collide, perspectives evolve, and intellectual growth takes center stage.
