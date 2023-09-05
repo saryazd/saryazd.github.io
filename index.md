@@ -15,7 +15,5 @@ As I embark on the next phase of my career, I am eagerly seeking opportunities i
 </div>
 
 ## Contact
-
 [Email](amirhoseyn.saryazdi@gmail.com)
-
 [![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")
