@@ -1,32 +1,19 @@
-| [My CV](cv.pdf) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [CV](cv.pdf) | [Teachings](teachings.md) | [Courses](courses.md) | [Community Services](services.md) | [Leadership](leadership.md)
 
-## M.Sc. candidate at Concordia University
-I am a final year M.Sc. in Business Analytics at Concordia University. My current research is focused on trustworthy machine learning (ML) to mitigate bias in algorithms and make Artificial Intelligence (AI) more inclusive.
+Welcome to my personal website! I'm thrilled to have you here.
 
-Prior to this, I held the following positions: Business consultant in construction and real estate industry, Business analyst in insurance industry, and mechanical engineer in the automotive industry.  
+I am a final-year master's student in Business Analytics at Concordia University, and my journey in the world of data and analytics has been nothing short of exciting. Throughout my academic pursuits, I have delved deep into the realms of data science and artificial intelligence, honing my skills as a researcher and practitioner. My passion for data-driven decision-making led me to work as a research assistant in these fields during my master's program.
 
-### Professional Experience
+In addition to my research roles, my time as both a teaching assistant and facilitator for various courses across different departments at Concordia University has been instrumental in my personal and professional development. These experiences have not only expanded my horizons within diverse academic disciplines but have also been a crucible for refining crucial soft skills that are highly valued in the industry job market.
 
-- Fairness-aware AI
-- Privacy-preserving Machine Learning
-- Constrained Optimization
-- Deep Learning
-- Probabilistic Graphical Models
-- Social Network Analysis
+My expertise spans various domains within data analytics, including statistical modeling, statistical learning, machine learning, and deep learning, all implemented using Python and R. I am equally comfortable navigating relational database management systems and utilizing SQL for data manipulation. My toolkit also includes SAS and SAS Viya, along with proficiency in data visualization tools like Microsoft Power BI and Tableau.
 
-### Teaching
+Prior to my current academic journey, I pursued an MBA with a focus on supply chain and operations. Drawing upon my background as an engineer, I approached challenges with an analytical mind and a relentless passion for problem-solving. During this time, I had the opportunity to intern at a leading insurance company, where I developed a decision support tool that optimized complex processes and improved efficiency. This experience not only deepened my appreciation for data-driven solutions but also showcased my ability to apply analytical thinking to real-world business challenges. My educational foundation lies in mechanical engineering, with a bachelor's degree, and I had the privilege of interning in the automotive industry. These experiences have instilled in me a strong foundation in analytical problem-solving, a skill I continue to bring to my work in the field of data analytics.
 
-- COMM 226: Business Technology Management 
-
-The full list is available at [teaching](teaching.md).
-
-### Publications
--
-- 
+As I embark on the next phase of my career, I am eagerly seeking opportunities in roles such as Data Scientist, Data Analyst, Business Analyst, Business Intelligence, and other related quantitative fields. I am excited to bring my diverse skill set, passion for problem-solving, and dedication to fostering accessible learning to drive meaningful impact in the business world. Thank you for visiting my website, and I look forward to connecting with you.
 
 ## Contact
 
 [Email](amirhoseyn.saryazdi@gmail.com)
 
 [![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")
-[![alt text](scholar.png)](https://scholar.google.com/ "Google Scholar")
