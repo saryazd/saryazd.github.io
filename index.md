@@ -1,4 +1,4 @@
-| [CV](cv.pdf) | [Courses](courses.md) | [Projects](projects.md) | [Teachings](teachings.md) | [Community Services](services.md) | [Leadership](leadership.md)
+| [CV](cv.pdf) | [Courses](courses.md) | [Projects](projects.md) | [Teachings](teachings.md) | [Volunteering](services.md) | [Leadership](leadership.md)
 
 ## Welcome to my personal website!
   
