@@ -13,6 +13,6 @@ Prior to my current academic journey, I pursued an **MBA** with a focus on suppl
 As I embark on the next phase of my career, I am eagerly seeking opportunities in roles such as **Data Scientist, Data Analyst, Data Engineer, Business Analyst, Business Intelligence, Risk Analyst, Data Modeler**, and other related quantitative fields. I am excited to bring my diverse skill set, passion for problem-solving, and dedication to fostering accessible learning to drive meaningful impact in the business world. Thank you for visiting my website, and I look forward to connecting with you.
 
 ## Contact
-[![alt text](email.png)](amirhoseyn.saryazdi@gmail.com/ "Email")
+[![alt text](email.png)](mailto:amirhoseyn.saryazdi@gmail.com/ "Email")
 
 [![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")
