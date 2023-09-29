@@ -2,7 +2,7 @@ According to [Plum](https://secure.plum.io/p/HnXkQli7a-p6e2aWyyksXg) my top tale
 
 
 
-[![alt text](talent.png)]
+![alt text](talent.png)
 
 
 
