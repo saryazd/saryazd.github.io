@@ -9,4 +9,4 @@ pipelines and model deployment. I am actively seeking a full-time role in Canada
 data-driven innovation.
 
 ## Contact
-[![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")  [![alt text](email.png)](mailto:amirhoseyn.saryazdi@gmail.com/ "Email") 
+[![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")  [![alt text](email1.png)](mailto:amirhoseyn.saryazdi@gmail.com/ "Email") 
