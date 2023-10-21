@@ -1,4 +1,4 @@
-[Projects](projects.md) | [Teachings](teachings.md) | [Volunteering](services.md) | [Leadership](leadership.md) | [Courses](courses.md)
+[Projects](projects.md) | [Teachings](teachings.md) | [Volunteering](services.md) | [Courses](courses.md) | [Leadership](leadership.md)
 
 ## Welcome to my personal website!
   
