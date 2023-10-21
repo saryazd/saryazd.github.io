@@ -10,6 +10,7 @@ In summary, my teaching philosophy revolves around making learning **simple and 
 
 ## Teaching Assistants
 ### Concordia University, Montreal, Canada
+- BSTA 477: Managerial Forecasting
 - COMM 226: Business Technology Management
 - ENSC 6041:Creativity, Innovation, and Critical Thinking
 - ENCS 6042: Communication Techniques for the Innovation Process
