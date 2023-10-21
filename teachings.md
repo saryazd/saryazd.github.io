@@ -8,7 +8,7 @@ Furthermore, I strive to create a classroom environment that is not only educati
 In summary, my teaching philosophy revolves around making learning **simple and fun**, ultimately motivating students to actively engage and participate in the educational process.
 
 
-## Teaching Assistants
+## Teaching Assistants & Tutor
 ### Concordia University, Montreal, Canada
 - BSTA 477: Managerial Forecasting
 - COMM 226: Business Technology Management
