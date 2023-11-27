@@ -7,7 +7,7 @@ Learning models using Python, alongside proficiency in statistical analysis usin
 SQL, Power BI, and Tableau, with hands-on experience in databases, cloud services and platforms, version control, MLops, and CICD for data
 pipelines and model deployment.
 
-[BSTA477: SAS tutorials](https://github.com/hajigholam/SAS_Tutorial)
+[BSTA477: SAS Tutorials for Time-Series Forecasting](https://github.com/hajigholam/SAS_Tutorial)
 
 ## Contact
 [![alt text](linkedin.png)](https://www.linkedin.com/ "LinkedIn")  [![alt text](email1.png)](mailto:amirhoseyn.saryazdi@gmail.com/ "Email") 
