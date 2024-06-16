@@ -11,9 +11,12 @@
 <br>
 
 ### Role description
-- Develop and deliver comprehensive weekly tutorial sessions centered on time-series analysis and forecasting models using SAS software.
-- Mentored students, guiding them through the process of ideation, product development, and business plan creation.
-- Led and facilitated group discussions on product development, encouraging critical thinking and innovative solutions.
+- Successfully managing and evaluating classes exceeding 100 students independently or in a team of assistants
+- Mentoring fellow Teaching Assistants on effectively addressing student requests and enhancing communication strategies
+- Increasing participation rate by facilitating discussions, encouraging critical thinking, and providing constructive feedback
+- Promoting productive teamwork by effectively acting as the primary mediator for resolving group conflicts\
+- Developed and delivered comprehensive weekly tutorial sessions on time-series analysis and forecasting models using SAS software
+
 
 
 
