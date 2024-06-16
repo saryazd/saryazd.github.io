@@ -5,8 +5,8 @@ Being a graduate students at Concordia University, provides me with a great oppo
 - [Deep Learning](https://www.hec.ca/en/courses/detail/?cours=MATH60630A)
 - [Complex Networks Analysis](https://www.hec.ca/en/courses/detail/?cours=MATH80627A)
 - [Trustworthy Machine Learning](https://www.hec.ca/en/courses/detail/?cours=MATH80630A)
-- [Topics in Pricing Models] (https://www.hec.ca/en/courses/detail/?cours=MATH80617A)
-- [Applied Econometrics] (https://www.hec.ca/en/courses/detail/?cours=MATH60816A)
+- [Topics in Pricing Models](https://www.hec.ca/en/courses/detail/?cours=MATH80617A)
+- [Applied Econometrics](https://www.hec.ca/en/courses/detail/?cours=MATH60816A)
 
 
 
